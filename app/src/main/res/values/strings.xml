@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="greeting">Вас приветствует альбом любимых фотографий</string>
+    <string name="start">Начать</string>
+    <string name="next_image">Следующее фото</string>
+    <string name="goodbye">Спасибо за просмотр! До свидания</string>
+    <string name="exit">Выход</string>
+</resources>
